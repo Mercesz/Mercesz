@@ -7,7 +7,7 @@
 
 📫 **Onde me encontrar**  
 - ✉️ E-mail: **ezequielmerces36@gmail.com**  
-- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/)  
+- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/ezequiel-merces/)  
 - 📂 Portfólio: *Em desenvolvimento*  
 
 ---
