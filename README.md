@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ezequiel Merces  
 
-<!--
-**Mercesz/Mercesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição de carreira para a área de **Programação, Dados e IA**  
+💻 Estudante de **Tecnólogo em Análise e Desenvolvimento de Dados (Cruzeiro do Sul - Unicid)**  
+📚 Atualmente aprendendo: **C#, SQL, Power BI e Cloud (Azure/AWS)**  
+🚀 Interesses: **Back-end, Análise de Dados e IA Generativa**  
 
-Here are some ideas to get you started:
+📫 **Onde me encontrar**  
+- ✉️ E-mail: **ezequielmerces36@gmail.com**  
+- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/)  
+- 📂 Portfólio: *Em desenvolvimento*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades Técnicas  
+
+```text
+C# / .NET      ███████░░░  70%
+SQL / Databases ██████░░░░  60%
+Power BI       ████░░░░░░  40%
+Python         ███░░░░░░░  30%
+Azure (Cloud)  ██░░░░░░░░  20%
+AWS (Cloud)    ██░░░░░░░░  20%
