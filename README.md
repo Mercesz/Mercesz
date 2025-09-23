@@ -21,6 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 
+
 ---
 
 ## 📌 Projetos em Destaque  
@@ -47,3 +48,18 @@ Sistema para registrar despesas, calcular saldo disponível e acompanhar orçame
 ---
 
 ⭐ *“Aprendendo um pouco mais todos os dias e construindo minha jornada na área de TI!”*
+
+---
+
+## 📊 Minhas métricas no GitHub  
+
+| Estatísticas | Linguagens |
+|--------------|------------|
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Mercesz&show_icons=true&theme=tokyonight) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercesz&layout=compact&theme=tokyonight) |
+
+---
+
+## 🐍 Contribuições  
+
+![Snake animation](https://raw.githubusercontent.com/Mercesz/Mercesz/output/github-contribution-grid-snake.svg)
+
