@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Ezequiel Merces  
 
+![Contador de Visitas](https://komarev.com/ghpvc/?username=Mercesz&color=blue&style=for-the-badge)
+
 🎯 Em transição de carreira para a área de **Programação, Dados e IA**  
 💻 Estudante de **Tecnólogo em Análise e Desenvolvimento de Dados (Cruzeiro do Sul - Unicid)**  
 📚 Atualmente aprendendo: **C#, SQL, Power BI e Cloud (Azure/AWS)**  
