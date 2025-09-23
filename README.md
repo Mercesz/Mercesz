@@ -57,9 +57,10 @@ Sistema para registrar despesas, calcular saldo disponível e acompanhar orçame
 |--------------|------------|
 | ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Mercesz&show_icons=true&theme=tokyonight) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercesz&layout=compact&theme=tokyonight) |
 
----
+--- 
 
 ## 🐍 Contribuições  
 
 ![Snake animation](https://raw.githubusercontent.com/Mercesz/Mercesz/output/github-contribution-grid-snake.svg)
+
 
