@@ -12,7 +12,7 @@
 - 🎓 Cursando **Tecnólogo em Análise e Desenvolvimento de Dados**  
 - 🏫 Estudante no **SENAI** (Desenvolvimento Full-Stack)  
 - 💡 Concluí o curso de **Desenvolvimento Multiplataforma (React e React Native)**  
-- 📚 Finalizando o curso de **MySQL do básico ao avançado (Udemy)**  
+- 📚 Concluí o curso de **MySQL do básico ao avançado (Udemy)**  
 - 💬 Atualmente focado em **React, React Native, Node.js e MySQL**  
 - 🌟 Meu objetivo é crescer como desenvolvedor e construir aplicações que façam a diferença  
 
