@@ -1,22 +1,15 @@
+# Olá! Eu sou Ezequiel Merces 👋
 
-# Olá! Eu sou Ezequiel Merces
+🎯 Desenvolvedor Front-End Júnior | React | JavaScript | Node.js  
 
-🎯 Desenvolvedor Front-End e Full-Stack em formação  
-💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
-🚀 Buscando minha primeira oportunidade como **estagiário ou desenvolvedor júnior**
+Desenvolvedor Front-End em formação, com base em Full-Stack. 
+Atuo no desenvolvimento de aplicações web e mobile utilizando React e React Native, com integração a APIs REST e bancos de dados MySQL.
 
----
-
-## 🧠 Sobre mim
-
-- 🎓 Cursando **Tecnólogo em Análise e Desenvolvimento de Dados**  
-- 🏫 Estudante no **SENAI** (Desenvolvimento Full-Stack)  
-- 💡 Concluí o curso de **Desenvolvimento Multiplataforma (React e React Native)**  
-- 📚 Concluí o curso de **MySQL do básico ao avançado (Udemy)**  
-- 💬 Atualmente focado em **React, React Native, Node.js e MySQL**  
-- 🌟 Meu objetivo é crescer como desenvolvedor e construir aplicações que façam a diferença  
+Atualmente busco minha primeira oportunidade como desenvolvedor júnior ou estagiário, com foco em aprendizado contínuo e participação em projetos reais.
 
 ---
+
+## 🛠️ Tecnologias
 
 ### 💻 Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -25,20 +18,27 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 
-### ⚙️ Back-End
+### ⚙️ Back-End (base)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 🧰 Outras Ferramentas
+### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+---
+
+## 🎓 Formação
+
+- Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)
+- Desenvolvimento Full-Stack — SENAI
+- Desenvolvimento Multiplataforma (React & React Native) — SENAI
 
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ezequiel-merces)
-- 📧 **ezequielmerces36@gmail.com**
-- 💻 [Portfólio (em breve)](https://github.com/Mercesz)
+- 💼 LinkedIn: https://www.linkedin.com/in/ezequiel-merces  
+- 📧 Email: ezequielmerces36@gmail.com
