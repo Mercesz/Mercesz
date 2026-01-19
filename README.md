@@ -1,11 +1,8 @@
-# Olá! Eu sou Ezequiel Merces 👋
+# 👋 Olá! Eu sou Ezequiel Merces
 
-🎯 Desenvolvedor Front-End Júnior | React | JavaScript | Node.js  
-
-Desenvolvedor Front-End em formação, com base em Full-Stack. 
-Atuo no desenvolvimento de aplicações web e mobile utilizando React e React Native, com integração a APIs REST e bancos de dados MySQL.
-
-Atualmente busco minha primeira oportunidade como desenvolvedor júnior ou estagiário, com foco em aprendizado contínuo e participação em projetos reais.
+🎯 Desenvolvedor **Front-End Júnior**  
+💻 Foco em **interfaces web responsivas** e manutenção de websites  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
@@ -30,15 +27,14 @@ Atualmente busco minha primeira oportunidade como desenvolvedor júnior ou estag
 
 ---
 
-## 🎓 Formação
+## 👨‍💻 Sobre mim
+Sou desenvolvedor **Front-End em formação**, com experiência em projetos pessoais e acadêmicos utilizando **HTML, CSS, JavaScript e React**.  
+Tenho base em **Node.js e MySQL**, o que me permite compreender integrações com APIs e fluxo entre front e back.
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (em andamento)
-- Desenvolvimento Full-Stack — SENAI
-- Desenvolvimento Multiplataforma (React & React Native) — SENAI
+Busco minha **primeira oportunidade como desenvolvedor júnior ou estagiário**, com foco em aprendizado contínuo, colaboração em equipe e evolução profissional.
 
 ---
 
 ## 📫 Contato
-
 - 💼 LinkedIn: https://www.linkedin.com/in/ezequiel-merces  
 - 📧 Email: ezequielmerces36@gmail.com
